@@ -1,9 +1,5 @@
 /* Typography */
 
-html {
-	font-family: 'Roboto', sans-serif;
-}
-
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;

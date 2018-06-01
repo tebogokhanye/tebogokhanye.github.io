@@ -1,2 +1,0 @@
-
-MIT © Sydney Khanye

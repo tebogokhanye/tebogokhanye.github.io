@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sidkhanye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sidkhanye.github.io
+  * I am sidkhanye (https://keybase.io/sidkhanye) on keybase.
+  * I have a public key ASCHCsqoMG71rBsj8qGK7lZbWiHBxNIYTXOGq_OMkBVeAQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012047650d965e598b5be8cf703e96c14020bb9d44613ee4448bf74174beba48a3a00a",
+      "host": "keybase.io",
+      "kid": "0120870acaa8306ef5ac1b23f2a18aee565b5a21c1c4d2184d7386abf38c90155e010a",
+      "uid": "fe23ca6a9bf6c278c0e304bed65c2419",
+      "username": "sidkhanye"
+    },
+    "merkle_root": {
+      "ctime": 1602317455,
+      "hash": "49922a8bf00a8a21a9ec49fb64beb284161c7705dcfbe02d380dc5d5beb76257c56bf1422502dc4c345dfbb7064e3e7ef77c8186caf761e7e0ba3e2cc2177c26",
+      "hash_meta": "f2aeb1a1e9277c8f57fd4084fd2f83302e9d69f03a95dbff848e8fe729c108db",
+      "seqno": 17792853
+    },
+    "service": {
+      "entropy": "RSrHm2gYJF2rDw/ND14MDog6",
+      "hostname": "sidkhanye.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1602317527,
+  "expire_in": 504576000,
+  "prev": "7cd1234e4a2ee5634ee5465fd3e7332d91b08f2b0ccf3d005a2ff2cff856eb74",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghwrKqDBu9awbI/Khiu5WW1ohwcTSGE1zhqvzjJAVXgEKp3BheWxvYWTESpcCCsQgfNEjTkou5WNO5UZf0+czLZGwjysMzz0AWi/yz/hW63TEIEh18GgP3Vo2APoZFTmiSL4xoLRY7QAWPySnqiwHISDuAgHCo3NpZ8RASCD8zODTOjU+Q+kG3MieaUFq2l+AAUaGHnmk+iRGz2l2+BnAt9h90DGxbflWPg3P28IVaVrK0TDuDy8XpCXJAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGJw8VSvRlrL9ESBpI70ZG9GDW/JQFbbSctbtlI6pLb+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sidkhanye
+
+==================================================================

@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/tebogokhanye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tebogokhanye.github.io
+  * I am tebogokhanye (https://keybase.io/tebogokhanye) on keybase.
+  * I have a public key with fingerprint 4EC3 64C9 2305 383A A99B  7EC2 D76E 1015 EF88 D3C0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a1a6dacd4cc5147587fb48a2bcfbd34569c422c60003ec7f1b2ee782ace666250a",
+      "fingerprint": "4ec364c92305383aa99b7ec2d76e1015ef88d3c0",
+      "host": "keybase.io",
+      "key_id": "d76e1015ef88d3c0",
+      "kid": "0101a1a6dacd4cc5147587fb48a2bcfbd34569c422c60003ec7f1b2ee782ace666250a",
+      "uid": "646aff66175223673c99f190986e8919",
+      "username": "tebogokhanye"
+    },
+    "service": {
+      "hostname": "tebogokhanye.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1643982281,
+  "expire_in": 157680000,
+  "prev": "0be8373d2cab50a73d91e10e463df25421ac12471f48f66a902c3f8ad3310489",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIwAnicrVJbSBVBGD5mdtGULnQhinC766l2Z3Znd09kVA+92MHCoqg4zszOnrNZ
+u6c9ezSxKAy6WIhQEqGiHKPE8kG7SkUpWUlRRCAFZVE9dIEii6igaNbqrceeZuaf
+7/v+//v4b2SnBzLTmh6uefJxziWadqf7ZDKAfyzoqxSIY1QIoUqhlA0dbKvBEl6k
+1DKEkCBKooQljAxMDZlSRZJVRVNNImsYEGoSA8oK0qkMAEWiKEJGVVMigDFVA5gy
+hBBQRCwEBdOyo8yNu5btcVmZUYhkqgMoKlCDGOs6URkFhooY76gwU9MMSEVOjDkJ
+n8GHIzjBFloOr/FHZGi8f+D/89zJITkkI2yaCEmqAgBEKqS6bkq6qGuIabqk+8AE
+c228jXG0x4gTdUpj2K5gwq6gwH/KLMr8cH03/0AtjFpeLEl+u4u7judQZyvHxDwv
+ngj5Gl5F3CeVMxL5Ixchlm3wVDmjjLkJy7GFkMSR1LN8fQnJUNcA0KSgwHbELZdF
+LB+hqEjjjkW/DyvzoyJMgyo0AMWEe+Y3XeKhMhlBwwSKDCRMJSCrkilrPAKsi4BC
+U8MGhJIoa773BNtuO0IIclEPR7lmwora2Eu63H7P9U3DA2mZgREZw/x1C2SOHvt3
+CatzR/7M+9H/7JN6ffLLVY1ZRW3TZ4/96p6btf9d9t59d3MXXa56MqG1uXZY1saC
+ua/d/rrXX4ryxoV3duT3TjxRP/XYlOLN1Q0tuGtPdPmy/MrmO61nUisnfV09MLx3
+fWSgixyduXiRHl7XezsvVfh06WAqNn6JtfZa+v23D4rudw/GCos7BdL20zpddXBL
+sKqs5NmaMe2dQe/2zU2vemLfBje0HOosqO+/t+LxBxC8fGVUbe7zOvnVlvIDj8IZ
+oVOf5nZcSJ92smvypauN4cPF76ffLHxqf/Za+07MHwid+py6kPPi+GgSKjm7u23k
++ayc1LxbgeDsGdO+9F3MqJnYHKtpbyLfj7x705D8Bfy6Sdo=
+=aAfd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tebogokhanye
+
+==================================================================

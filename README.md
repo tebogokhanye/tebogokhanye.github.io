@@ -1,2 +1,2 @@
 # sidkhanye.github.io
-personal landing page hosted on github pages. 
+personal SPA hosted on github pages. 

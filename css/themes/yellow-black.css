@@ -1,14 +1,21 @@
-/* Theme */
 
-main {
-	background: #FFEB3B;
-	color: #1E1E1E;
+body{
+	 width: 100%; 
+	  height: 100%; 
+	  background-image: url("https://media.tenor.com/Z2-Tny09OdkAAAAC/batman-running.gif");
+	
+	  background-size:initial;
+	  background-repeat: no-repeat; 
+	  background-position: center center;
+  }
+main{
+	color: #510205;
 }
 
 .icons-social a {
-	color: #1E1E1E;
+	color: #a9ad60;
 }
 
 .icons-social a svg path{
-	fill: #1E1E1E;
+	fill: #a9ad60;
 }

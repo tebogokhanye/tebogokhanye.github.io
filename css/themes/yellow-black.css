@@ -2,8 +2,8 @@
 body{
 	 width: 100%; 
 	  height: 100%; 
-	/*  background-image: url("https://media.tenor.com/Z2-Tny09OdkAAAAC/batman-running.gif"); **/
-	 background-image: url(favion/wall.jpg);
+	
+	  background-image: url(favion/wall.jpg);
 	  background-size: initial;
 	  background-repeat: no-repeat; 
 	  background-position: center center;
